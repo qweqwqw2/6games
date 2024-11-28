@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qweqwqw2.github.io/6games/index.html
